@@ -1,4 +1,4 @@
-##About the project
+## About the project
 
 This application is used to help automate the process of lending that will help any startups that are engaged in microcredit loans and needs help to value these loans. 
 
